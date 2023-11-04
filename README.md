@@ -1,2 +1,2 @@
 # Car-Price-Model
-This repository contains a data science project focused on predicting the prices of Ford cars using data analysis and machine learning techniques
+This repository is dedicated to a data analysis and machine learning project aimed at predicting the prices of Ford cars. The primary focus is on data cleaning, analysis, and applying machine learning techniques for price estimation.
